@@ -1,0 +1,11 @@
+/*Esto es para incluir comentarios entre lineas
+ */
+#include <iostream>//Incluye funciones estandar de C
+#include <cmath>// incluye algunas funciones matematicas
+
+int main (void)
+{
+  std::cout << "Adios mundo :c!\n";
+  std::sin << 
+    return 0;
+}
